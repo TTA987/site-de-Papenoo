@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mairie de Papenoo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#accueil">Accueil</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#actualites">Actualités</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="accueil">
+        <h1>Bienvenue à la Mairie de Papenoo</h1>
+        <p>Découvrez nos services et actualités.</p>
+    </section>
+    <section id="services">
+        <h2>Nos Services</h2>
+        <p>Description des services disponibles.</p>
+    </section>
+    <section id="actualites">
+        <h2>Actualités</h2>
+        <p>Les dernières informations de votre commune.</p>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Adresse : Papenoo, PK17.800, côté montagne</p>
+        <p>Email : mairie@papenoo.pf</p>
+        <p>Téléphone : 40 XX XX XX</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Mairie de Papenoo</p>
+    </footer>
+</body>
+</html>
